@@ -12,6 +12,7 @@
             class="text-2xl sm:text-3xl font-extrabold bg-gradient-to-r from-white via-purple-200 to-fuchsia-200 bg-clip-text text-transparent">
             Add New Stagiaire
         </h1>
+
         <p class="text-slate-400 mt-1 text-xs sm:text-sm">Fill in the details to register a new trainee</p>
     </div>
 

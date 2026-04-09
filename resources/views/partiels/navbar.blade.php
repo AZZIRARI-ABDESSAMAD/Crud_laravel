@@ -20,10 +20,6 @@
                     class="px-3 py-1.5 sm:px-4 sm:py-2 rounded-lg text-xs sm:text-sm font-medium text-slate-300 hover:text-white hover:bg-white/10 transition-all duration-200">
                     📋 List
                 </a>
-                <a href="{{ route('stagiaires.create') }}"
-                    class="px-3 py-1.5 sm:px-4 sm:py-2 rounded-lg text-xs sm:text-sm font-medium text-slate-300 hover:text-white hover:bg-white/10 transition-all duration-200">
-                    ➕ Create
-                </a>
             </div>
         </div>
     </div>
